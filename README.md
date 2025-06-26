@@ -17,7 +17,7 @@ A faithful emulator of the classic HP-16C programmable calculator written in Rus
 Make sure you have Rust installed, then clone and build:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/meerkatone/rpn_rust
 cd rpn_rust
 cargo build --release
 ```
