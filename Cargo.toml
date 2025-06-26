@@ -1,0 +1,11 @@
+[package]
+name = "hp16c_rpn"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "hp16c"
+path = "src/main.rs"
+
+[dependencies]
+rustyline = "14.0"
